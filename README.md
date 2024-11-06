@@ -4,13 +4,22 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Das ist buchhalterin für android.
 
-A few resources to get you started if this is your first Flutter project:
+Es enthält die folgenden funktionen:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1: buchhaltung (einnahmen und ausgaben)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+2: schaltet die konten aus (jedes einzelne buch wird den gesamtwert gesondert berechnet)
+
+3. Sprachen wechseln (auch auf Deutsch, chinesisch, japanisch, englisch)
+
+4. Wechselkurs manuell festlegen (da software rein offline ist und nicht mit ihrem gerät verbunden
+
+5. Abfall (sie können den gelöschte eintrag an der endstation wiederherstellen Oder gründlich löschen)
+
+6: häufige fragen (die die frage aufwerfen)
+
+PS：Beachten sie, dass die software in der entwicklungsphase ist und die icons und bug noch nicht entwickelt Oder getestet wurden.
+
+ref(APA): Kayano.Kayano.http://www.kayano.fun. Retrieved 2024/11/6.
