@@ -1,0 +1,106 @@
+{
+  "appTitle": "Neko Kare",
+  "addRecord": "Add Record",
+  "income": "Income",
+  "expense": "Expense",
+  "amount": "Amount",
+  "category": "Category",
+  "date": "Date",
+  "note": "Note",
+  "save": "Save",
+  "settings": "Settings",
+  "language": "Language",
+  "english": "English",
+  "japanese": "Japanese",
+  "german": "German",
+  "chinese": "Chinese",
+  
+  "records": "Records",
+  "exchangeRates": "Exchange Rates",
+  "exchangeRatesSubtitle": "Set currency exchange rates",
+  "trash": "Trash",
+  "trashSubtitle": "View deleted records",
+  "faq": "FAQ",
+  "faqSubtitle": "View help",
+  "noRecords": "No records",
+  "emptyTrash": "Trash is empty",
+  "restore": "Restore",
+  "permanentDelete": "Delete Permanently",
+  "clearTrash": "Clear Trash",
+  "clearTrashConfirm": "Are you sure you want to permanently delete all records? This action cannot be undone.",
+  "recordRestored": "Record restored",
+  "recordDeleted": "Record permanently deleted",
+  "cancel": "Cancel",
+  "confirm": "Confirm",
+  "currencySettings": "Currency Settings",
+  "currencySettingsHint": "• All currencies are converted based on CNY\n• Exchange rates need to be updated manually\n• Regular updates are recommended for accuracy",
+  "currencyCNY": "Chinese Yuan",
+  "currencyUSD": "US Dollar",
+  "currencyEUR": "Euro",
+  "currencyJPY": "Japanese Yen",
+  "currencyAUD": "Australian Dollar",
+  "setRate": "Set {currency} Rate",
+  "rateInputHint": "Enter exchange rate",
+  "rateUpdated": "Exchange rate updated",
+  
+  "selectDisplayCurrency": "Select Display Currency",
+  "selectCurrency": "Select Currency",
+  "expenseAmount": "Expense Amount",
+  "incomeAmount": "Income Amount",
+  "recordDetails": "Record Details",
+  "addNote": "Add note...",
+  "totalSavings": "Total Savings",
+  "defaultBook": "Default Book",
+  "myBooks": "My Books",
+  "createNewBook": "Create New Book",
+  "bookName": "Book Name",
+  "description": "Description (Optional)",
+  "create": "Create",
+  "editBook": "Edit Book",
+  "confirmDelete": "Confirm Delete",
+  "deleteBookConfirm": "Are you sure you want to delete book \"{name}\"?\nAll records in this book will be deleted.",
+  "@deleteBookConfirm": {
+    "placeholders": {
+      "name": {}
+    }
+  },
+  "current": "Current",
+  "delete": "Delete",
+  "deleteRecordConfirm": "Are you sure you want to delete the record of {amount}?",
+  "@deleteRecordConfirm": {
+    "placeholders": {
+      "amount": {}
+    }
+  },
+  "enterAmount": "Please enter amount",
+  "enterValidAmount": "Please enter a valid amount",
+  "saveFailed": "Failed to save record, please try again",
+  
+  "faqAddRecord": "How to add a new record?",
+  "faqAddRecordAnswer": "Click the plus button at the bottom of the home page, fill in the amount, category and other information, then click save to add a new record.",
+  
+  "faqEditRecord": "How to edit an existing record?",
+  "faqEditRecordAnswer": "Long press the record you want to modify on the home page to enter the edit interface.",
+  
+  "faqDeleteRecord": "How to delete a record?",
+  "faqDeleteRecordAnswer": "Swipe left or right on the record you want to delete. Deleted records will go to the trash bin, which can be found in the settings page.",
+  
+  "faqSetExchangeRate": "How to set exchange rates for different currencies?",
+  "faqSetExchangeRateAnswer": "Click 'Exchange Rates' in the settings page to set exchange rates for different currencies against CNY.",
+  
+  "faqChangeLanguage": "How to change the language?",
+  "faqChangeLanguageAnswer": "Click 'Language' in the settings page to switch between Chinese, English, Japanese and German.",
+  
+  "faqRestoreRecord": "Can deleted records be restored?",
+  "faqRestoreRecordAnswer": "Yes. Deleted records go to the trash bin, where you can choose to restore or permanently delete them.",
+  
+  "faqSupportedCurrencies": "Which currencies are supported?",
+  "faqSupportedCurrenciesAnswer": "Currently supports CNY, USD, EUR, and JPY.",
+  
+  "faqDataLoss": "Will data be lost?",
+  "faqDataLossAnswer": "All data is stored locally and won't be lost unless you uninstall the app or clear app data. Regular backups of important data are recommended.",
+  
+  "setAsCurrent": "Set as Current",
+  "edit": "Edit",
+  "totalAmount": "Total Amount"
+} 

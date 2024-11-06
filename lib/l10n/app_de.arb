@@ -1,0 +1,105 @@
+{
+  "appTitle": "Neko Kare",
+  "addRecord": "Eintrag hinzufügen",
+  "income": "Einkommen",
+  "expense": "Ausgabe",
+  "amount": "Betrag",
+  "category": "Kategorie",
+  "date": "Datum",
+  "note": "Notiz",
+  "save": "Speichern",
+  "settings": "Einstellungen",
+  "language": "Sprache",
+  "english": "Englisch",
+  "japanese": "Japanisch",
+  "german": "Deutsch",
+  "chinese": "Chinesisch",
+  
+  "records": "Einträge",
+  "exchangeRates": "Wechselkurse",
+  "exchangeRatesSubtitle": "Währungskurse einstellen",
+  "trash": "Papierkorb",
+  "trashSubtitle": "Gelöschte Einträge anzeigen",
+  "faq": "FAQ",
+  "faqSubtitle": "Hilfe anzeigen",
+  "noRecords": "Keine Einträge",
+  "emptyTrash": "Papierkorb ist leer",
+  "restore": "Wiederherstellen",
+  "permanentDelete": "Endgültig löschen",
+  "clearTrash": "Papierkorb leeren",
+  "clearTrashConfirm": "Möchten Sie wirklich alle Einträge endgültig löschen? Diese Aktion kann nicht rückgängig gemacht werden.",
+  "recordRestored": "Eintrag wiederhergestellt",
+  "recordDeleted": "Eintrag endgültig gelöscht",
+  "cancel": "Abbrechen",
+  "confirm": "Bestätigen",
+  "currencySettings": "Währungseinstellungen",
+  "currencySettingsHint": "• Alle Währungen werden auf Basis des CNY umgerechnet\n• Wechselkurse müssen manuell aktualisiert werden\n• Regelmäßige Aktualisierungen werden für die Genauigkeit empfohlen",
+  "currencyCNY": "Chinesischer Yuan",
+  "currencyUSD": "US-Dollar",
+  "currencyEUR": "Euro",
+  "currencyJPY": "Japanischer Yen",
+  "currencyAUD": "Australischer Dollar",
+  "setRate": "{currency}-Kurs festlegen",
+  "rateInputHint": "Wechselkurs eingeben",
+  "rateUpdated": "Wechselkurs aktualisiert",
+  
+  "selectDisplayCurrency": "Anzeigewährung auswählen",
+  "selectCurrency": "Währung auswählen",
+  "expenseAmount": "Ausgabenbetrag",
+  "incomeAmount": "Einnahmebetrag",
+  "recordDetails": "Eintragsdetails",
+  "addNote": "Notiz hinzufügen...",
+  "totalSavings": "Gesamtersparnis",
+  "defaultBook": "Standardbuch",
+  "myBooks": "Meine Bücher",
+  "createNewBook": "Neues Buch erstellen",
+  "bookName": "Buchname",
+  "description": "Beschreibung (Optional)",
+  "create": "Erstellen",
+  "editBook": "Buch bearbeiten",
+  "confirmDelete": "Löschen bestätigen",
+  "deleteBookConfirm": "Möchten Sie das Buch \"{name}\" wirklich löschen?\nAlle Einträge in diesem Buch werden gelöscht.",
+  "@deleteBookConfirm": {
+    "placeholders": {
+      "name": {}
+    }
+  },
+  "current": "Aktuell",
+  "delete": "Löschen",
+  "deleteRecordConfirm": "Möchten Sie den Eintrag über {amount} wirklich löschen?",
+  "@deleteRecordConfirm": {
+    "placeholders": {
+      "amount": {}
+    }
+  },
+  "enterAmount": "Bitte Betrag eingeben",
+  "enterValidAmount": "Bitte gültigen Betrag eingeben",
+  "saveFailed": "Speichern fehlgeschlagen, bitte erneut versuchen",
+  
+  "faqAddRecord": "Wie füge ich einen neuen Eintrag hinzu?",
+  "faqAddRecordAnswer": "Klicken Sie auf die Plus-Schaltfläche am unteren Rand der Startseite, geben Sie Betrag, Kategorie und andere Informationen ein und klicken Sie auf Speichern.",
+  
+  "faqEditRecord": "Wie bearbeite ich einen vorhandenen Eintrag?",
+  "faqEditRecordAnswer": "Drücken Sie lange auf den Eintrag, den Sie auf der Startseite ändern möchten, um die Bearbeitungsoberfläche aufzurufen.",
+  
+  "faqDeleteRecord": "Wie lösche ich einen Eintrag?",
+  "faqDeleteRecordAnswer": "Wischen Sie nach links oder rechts über den Eintrag, den Sie löschen möchten. Gelöschte Einträge werden in den Papierkorb verschoben, den Sie auf der Einstellungsseite finden.",
+  
+  "faqSetExchangeRate": "Wie stelle ich Wechselkurse für verschiedene Währungen ein?",
+  "faqSetExchangeRateAnswer": "Klicken Sie auf der Einstellungsseite auf 'Wechselkurse', um Wechselkurse für verschiedene Währungen gegenüber CNY einzustellen.",
+  
+  "faqChangeLanguage": "Wie ändere ich die Sprache?",
+  "faqChangeLanguageAnswer": "Klicken Sie auf der Einstellungsseite auf 'Sprache', um zwischen Chinesisch, Englisch, Japanisch und Deutsch zu wechseln.",
+  
+  "faqRestoreRecord": "Können gelöschte Einträge wiederhergestellt werden?",
+  "faqRestoreRecordAnswer": "Ja. Gelöschte Einträge werden in den Papierkorb verschoben, wo Sie sie wiederherstellen oder endgültig löschen können.",
+  
+  "faqSupportedCurrencies": "Welche Währungen werden unterstützt?",
+  "faqSupportedCurrenciesAnswer": "Derzeit werden CNY, USD, EUR und JPY unterstützt.",
+  
+  "faqDataLoss": "Gehen Daten verloren?",
+  "faqDataLossAnswer": "Alle Daten werden lokal gespeichert und gehen nur verloren, wenn Sie die App deinstallieren oder die App-Daten löschen. Regelmäßige Sicherungen wichtiger Daten werden empfohlen.",
+  "setAsCurrent": "Als aktuell festlegen",
+  "edit": "Bearbeiten",
+  "totalAmount": "Gesamtbetrag"
+} 
